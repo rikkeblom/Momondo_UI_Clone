@@ -1,0 +1,40 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+# RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+RewriteRule ^mobile$                                /css_mobile.css [NC,L]
+RewriteRule ^tablet$                                /css_tablet.css [NC,L]
+RewriteRule ^desktop$                               /css_desktop.css [NC,L]
+
+RewriteRule ^$                                      /view_index.php [NC,L]
+RewriteRule ^flights$                               /view_index.php [NC,L]
+RewriteRule ^admin$                                 /view_admin.php [NC,L]
+RewriteRule ^carrental$                             /view_carrental.php [NC,L]
+RewriteRule ^explore$                               /view_explore.php [NC,L]
+RewriteRule ^ferries$                               /view_ferries.php [NC,L]
+RewriteRule ^packages$                              /view_packages.php [NC,L]
+RewriteRule ^stays$                                 /view_stays.php [NC,L]
+RewriteRule ^thingstodo$                            /view_thingstodo.php [NC,L]
+RewriteRule ^things_to_do$                          /view_thingstodo.php [NC,L]
+RewriteRule ^travelrestrictions$                    /view_travelrestrictions.php [NC,L]
+RewriteRule ^travel_restrictions$                   /view_travelrestrictions.php [NC,L]
+RewriteRule ^trips$                                 /view_trips.php [NC,L]
+ 
+RewriteRule ^([a-z]{2})$                            /view_index.php?language=$1 [NC,L]
+RewriteRule ^flights/([a-z]{2})$                    /view_index.php?language=$1 [NC,L]
+RewriteRule ^admin/([a-z]{2})$                      /view_admin.php?language=$1 [NC,L]
+RewriteRule ^carrental/([a-z]{2})$                  /view_carrental.php?language=$1 [NC,L]
+RewriteRule ^explore/([a-z]{2})$                    /view_explore.php?language=$1 [NC,L]
+RewriteRule ^ferries/([a-z]{2})$                    /view_ferries.php?language=$1 [NC,L]
+RewriteRule ^packages/([a-z]{2})$                   /view_packages.php?language=$1 [NC,L]
+RewriteRule ^stays/([a-z]{2})$                      /view_stays.php?language=$1 [NC,L]
+RewriteRule ^thingstodo/([a-z]{2})$                 /view_thingstodo.php?language=$1 [NC,L]
+RewriteRule ^things_to_do/([a-z]{2})$               /view_thingstodo.php?language=$1 [NC,L]
+RewriteRule ^travelrestrictions/([a-z]{2})$         /view_travelrestrictions.php?language=$1 [NC,L]
+RewriteRule ^travel_restrictions/([a-z]{2})$        /view_travelrestrictions.php?language=$1 [NC,L]
+RewriteRule ^trips/([a-z]{2})$                      /view_trips.php?language=$1 [NC,L]
+
+RewriteRule ^flights/([a-z]{2})/(\w+)/(\w+)$        /view_flightsearch.php?language=$1&from_input=$2&to_input=$3 [NC,L]
+
+ErrorDocument 404                             /view_404.php 
+ErrorDocument 500                             /view_404.php 

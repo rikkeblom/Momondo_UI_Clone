@@ -1,0 +1,209 @@
+@media only screen and (min-width: 600px) {
+  /* ---------------------------| Navigation |---------------------------- */
+  #global-nav {
+    width: 271px;
+  }
+
+  .card-flex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 auto;
+  }
+
+  .destination-card {
+    width: calc(50% - 0.5rem);
+  }
+
+  div#from-results,
+  div#to-results {
+    width: var(---max-width-small);
+    left: calc((100% - var(---max-width-small)) / 2);
+    margin: 0;
+  }
+
+  .dk-result-height {
+    top: 333px;
+  }
+
+  .en-result-height {
+    top: 293px;
+  }
+}
+
+@media only screen and (min-width: 650px) {
+  * {
+    ---max-width-small: 563px;
+  }
+
+  #image-upload-form {
+    flex-wrap: nowrap;
+  }
+
+  #fileToUpload {
+    width: auto;
+  }
+
+  .title-main {
+    font-size: 32px;
+    text-align: left;
+    line-height: 40px;
+  }
+
+  .title-container {
+    padding: 36px 0;
+  }
+
+  .current-destinations {
+    width: var(---max-width-small);
+  }
+
+  #why_choose_momondo {
+    width: var(---max-width-small);
+  }
+
+  .show-on-tablet {
+    display: block;
+  }
+
+  .medium-card {
+    width: 273px;
+    overflow: visible;
+  }
+
+  .medium-card:first-of-type .arrow-flex {
+    display: none;
+  }
+
+  .medium-card:last-of-type .arrow-flex {
+    transform: translateX(1rem);
+  }
+
+  .medium-card-container {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  }
+
+  .arrow-flex {
+    transform: translate(25px, -17%);
+  }
+
+  .current-destinations,
+  .medium-card-container,
+  .arrow-flex {
+    overflow: visible;
+  }
+
+  #modal {
+    width: 480px;
+    margin: 1rem;
+    height: fit-content;
+    position: relative;
+  }
+
+  #transparent-bg {
+    display: flex;
+    justify-content: center;
+    overflow-y: scroll;
+  }
+
+  .small-header-duo h2 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+
+  .small-header-duo h5 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .subpage #hero .title,
+  #tripspage .title,
+  #carrental .title {
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 56px;
+  }
+
+  #tripspage h4 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+
+@media only screen and (min-width: 850px) {
+  * {
+    ---max-width-small: 691px;
+  }
+
+  #modal {
+    margin: 51px;
+  }
+
+  #frontpage-search-minus-button {
+    flex-direction: row;
+    align-items: center;
+  }
+
+  #switch-direction {
+    position: relative;
+    height: 50px;
+    width: 50px;
+    background: var(---pale_blue);
+    right: 0;
+    border: none;
+  }
+
+  #switch-direction svg {
+    height: 34px;
+    width: 34px;
+    transform: rotate(0);
+  }
+
+  #to-container,
+  #from-container {
+    width: 50% !important;
+  }
+
+  footer #privacy-menu span {
+    width: fit-content;
+  }
+
+  .medium-card {
+    width: 337px;
+  }
+
+  .medium-card .bg {
+    width: 337px;
+    height: 312px;
+  }
+
+  .arrow-flex {
+    transform: translate(25px, -10%);
+  }
+
+  .city-name-on-card {
+    font-size: 16px !important;
+  }
+
+  .small-header-duo h2 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+
+  .small-header-duo h5 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+
+  .dk-result-height {
+    top: 280px;
+  }
+
+  .en-result-height {
+    top: 239px;
+  }
+}

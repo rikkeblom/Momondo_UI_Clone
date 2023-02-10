@@ -1,0 +1,80 @@
+city_name,city_airport,city_country,city_airport_abr,city_image
+Aalborg,Aalborg Airport,Denmark,AAL,aalborg.jpg
+Aberdeen,Aberdeen International Airport,Scotland,ABZ,aberdeen.jpg
+Abu Dhabi ,Abu Dhabi International,United Arab Emirates,AUH,abudhabi.jpg
+Adelaide,Adelaide Airport,Australia,ADL,adelaide.jpg
+Akita,Akita Airport,Japan,AXT,akita.jpg
+Amsterdam,Amsterdam Airport Schiphol,Netherlands,AMS,amsterdam.jpg
+Antalya,Antalya Airport,Turkey,AYT,antalya.jpg
+Bangkok,Suvarnabhumi International Airport,Thailand,BKK,bangkok.jpg
+Barcelona,Barcelona El Prat Airport,Spain,BCN,barcelona.jpg
+Beijing,Beijing Nanyuan Airport,China,NAY,beijing.jpg
+Belfast,Belfast International Airport,Northern Ireland,BFS,belfast.jpg
+Cancun,Cancún International Airport,Mexico,CUN,cancun.jpg
+Cape Town,Cape Town International Airport,South Africa,CPT,capetown.jpg
+Casablanca,Anfa Airport,Morocco,CAS,casablanca.jpg
+Chicago,Chicago O'Hare International Airport,USA,ORD,chicago.jpg
+Copenhagen,Copenhagen Airport,Denmark,CPH,copenhagen.jpg
+Dakar,Blaise Diagne International Airport,Senegal,DSS,dakar.jpg
+Damascus ,Damascus International Airport,Syria,DAM,damascus.jpg
+David,Enrique Malek International Airport,Panama,DAV,david.jpg
+Delhi ,Indira Gandhi International Airport,India,DEL,delhi.jpg
+Dortmund,Dortmund Airport,Germany,DTM,dortmund.jpg
+Eindhoven,Eindhoven Airport,Netherlands,EIN,eindhoven.jpg
+El Paso,El Paso International Airport,USA,ELP,elpaso.jpg
+Fort Albany,Fort Albany Airport,Canada,YFA,fortalbany.jpg
+Freeport,Grand Bahama International Airport,Bahamas,FPO,freeport.jpg
+Fukushima,Fukushima Airport,Japan,FKS,fukushima.jpg
+Geneva,Geneva-Cointrin International Airport,Switzerland,GVA,geneva.jpg
+Grand Cayman,Owen Roberts International,Cayman Islands,GCM,grandcayman.jpg
+Guam,Guam International Airport,Guam,GUM,guam.jpg
+Guatemala City ,La Aurora International Airport,Guatemala,GUA,guatemalacity.jpg
+Hamilton,Hamilton International Airport,New Zealand,HLZ,hamilton.jpg
+Havana ,José Martí International Airport,Cuba,HAV,havana.jpg
+Helsinki,Helsinki-Vantaa Airport,Finland,HEL,helsinki.jpg
+Honolulu,Daniel K. Inouye International Airport,"USA, Hawaii",HNL,honolulu.jpg
+Ibiza,Ibiza Airport,Spain,IBZ,ibiza.jpg
+Istanbul,Atatürk International Airport,Turkey,IST,istanbul.jpg
+Jacquinot Bay,Jacquinot Bay Airport,Papua New Guinea,JAQ,jacquinotbay.jpg
+Jumla,Jumla Airport,Nepal,JUM,jumla.jpg
+Kiev ,Boryspil International Airport,Ukraine,KBP,kiev.jpg
+Kuala Lumpur ,Kuala Lumpur International Airport,Malaysia,KUL,kualalumpur.jpg
+Lagos,Murtala Muhammed International Airport,Nigeria,LOS,lagos.jpg
+Lima ,Jorge Chávez International Airport,Peru,LIM,lima.jpg
+London,East London Airport,England,ELS,london.jpg
+Madrid ,Barajas International Airport,Spain,MAD,madrid.jpg
+Manchester,Manchester Airport,England,MAN,manchester.jpg
+Miami,Miami International Airport,USA,MIA,miami.jpg
+Moscow,Domodedovo International Airport,Russia,DME,moscow.jpg
+New York,John F Kennedy International Airport,USA,JFK,newyork.jpg
+Norrkoeping,Norrköping Airport,Sweden,NRK,norrkoeping.jpg
+Odense,Hans Christian Andersen Airport,Denmark,ODE,odense.jpg
+Oklahoma City,Will Rogers World Airport,USA,OKC,oklahoma.jpg
+Osaka,Kansai International Airport,Japan,KIX,osaka.jpg
+Oslo ,Gardermoen,Norway,OSL,oslo.jpg
+Palma de Mallorca,Palma de Mallorca Airport,Spain,PMI,mallorca.jpg
+Panama City ,Tocumen International Airport,Panama,PTY,panamacity.jpg
+Paris,Charles de Gaulle Airport,France,PAR,paris.jpg
+Phuket,Phuket International Airport,Thailand,HKT,phuket.jpg
+Prague ,Václav Havel Airport Prague,Czech Republic,PRG,prague.jpg
+Pyongyang ,Sunan International Airport,North Korea,FNJ,pyongyang.jpg
+Quanzhou,Quanzhou Jinjiang Airport,"Fujian, China",JJN,quanzhou.jpg
+Queenstown,Queenstown Airport,New Zealand,ZQN,queentown.jpg
+Reykjavik,Keflavík International Airport,Iceland,KEF,reykjavik.jpg
+Rio de Janeiro,Santos Dumont Airport,Brazil,SDU,riodejaneiro.jpg
+Rome,Ciampino Airport,Italy,CIA,rome.jpg
+Salvador,Salvador International Airport,Brazil,SSA,salvador.jpg
+San Francisco,San Francisco International Airport,USA,SFO,sanfrancisco.jpg
+Shanghai,Hongqiao International Airport,China,SHA,shanghai.jpg
+Singapore,Changi Airport Singapore,Singapore,SIN,singapore.jpg
+Tokyo,Narita International Airport,Japan,NRT,tokyo.jpg
+Toronto,Toronto Pearson International Airport,Canada,YYZ,toronto.jpg
+Ulaanbaatar ,Chinggis Khaan International Airport,Mongolia,ULN,ulaanbaatar.jpg
+Union Island,Union Island Airport,Saint Vincent and the Grenadines,UNI,unionisland.jpg
+Vancouver,Vancouver International Airport,Canada,YVR,vancouver.jpg
+Venice,Venice Marco Polo Airport,Italy,VCE,venice.jpg
+Washington D.C.,Washington Dulles International,USA,IAD,washingtondc.jpg
+Wuhan,Wuhan Tianhe International,China,WUH,wuhan.jpg
+Xieng Khouang,Xieng Khouang Airport,Laos,XKH,xiengkhouang.jpg
+Yasawa,Yasawa Island Airport,Fiji,YAS,yasawa.jpg
+Zurich,Zürich Airport,Switzerland,ZRH,zurich.jpg
