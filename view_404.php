@@ -30,7 +30,7 @@
             <div>
                 <div class="s0rO-error-message"><?= $dictionairy[$language.'_no_page'] ?></div>
                 <div>
-                    <a href="/"><?= $dictionairy[$language.'_home'] ?></a>
+                    <a href="/momondo-clone/"><?= $dictionairy[$language.'_home'] ?></a>
                     <a href=""><?= $dictionairy[$language.'_feedback'] ?></a>
                 </div>
             </div>

@@ -8,7 +8,7 @@
   }
 
   #main-logo div {
-    background: url(images/other/large-logo.svg);
+    background: url(/momondo-clone/images/other/large-logo.svg);
     height: 24px;
     width: 130px;
     background-size: contain;
@@ -47,7 +47,7 @@
     width: 18px;
     height: 14px;
     display: inline-block;
-    background-image: url(images/other/img_a-small-flag-sprite.webp);
+    background-image: url(/momondo-clone/images/other/img_a-small-flag-sprite.webp);
     background-repeat: no-repeat;
     border: solid #fff 1px;
     overflow: hidden;

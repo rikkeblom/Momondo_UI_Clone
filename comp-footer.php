@@ -53,8 +53,8 @@
         
     </footer>
 
-    <script src="http://localhost/js_app.js"></script>
-    <script src="http://localhost/validator.js"></script>
+    <script src="/momondo-clone/js_app.js"></script>
+    <script src="/momondo-clone/validator.js"></script>
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </body>
 </html>

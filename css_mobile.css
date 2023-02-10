@@ -46,7 +46,7 @@
 }
 
 #main-logo div {
-  background: url(images/other/small-logo.svg);
+  background: url(/momondo-clone/images/other/small-logo.svg);
   height: 24px;
   width: 24px;
   background-size: cover;
@@ -1074,7 +1074,7 @@ main {
 .card .img-container {
   height: 334px;
   width: 100%;
-  background: url(/images/other/milos.webp);
+  background: url(/momondo-clone/images/other/milos.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -1114,55 +1114,55 @@ main {
 }
 
 #niceIMG {
-  background: url(images/other/nice.webp);
+  background: url(/momondo-clone/images/other/nice.webp);
   background-size: cover;
   background-position: center;
 }
 
 #alicanteIMG {
-  background: url(images/other/alicante.webp);
+  background: url(/momondo-clone/images/other/alicante.webp);
   background-size: cover;
   background-position: center;
 }
 
 #athensIMG {
-  background: url(images/other/athens.webp);
+  background: url(/momondo-clone/images/other/athens.webp);
   background-size: cover;
   background-position: center;
 }
 
 #berlinIMG {
-  background: url(images/other/berlin.webp);
+  background: url(/momondo-clone/images/other/berlin.webp);
   background-size: cover;
   background-position: center;
 }
 
 #budabestIMG {
-  background: url(images/other/budapest.webp);
+  background: url(/momondo-clone/images/other/budapest.webp);
   background-size: cover;
   background-position: center;
 }
 
 #lisbonIMG {
-  background: url(images/other/lisbon.webp);
+  background: url(/momondo-clone/images/other/lisbon.webp);
   background-size: cover;
   background-position: center;
 }
 
 #milanIMG {
-  background: url(images/other/milan.webp);
+  background: url(/momondo-clone/images/other/milan.webp);
   background-size: cover;
   background-position: center;
 }
 
 #pragueIMG {
-  background: url(images/other/prague.webp);
+  background: url(/momondo-clone/images/other/prague.webp);
   background-size: cover;
   background-position: center;
 }
 
 #stockholmIMG {
-  background: url(images/other/stockholm.webp);
+  background: url(/momondo-clone/images/other/stockholm.webp);
   background-size: cover;
   background-position: center;
 }
@@ -1233,43 +1233,43 @@ main {
 }
 
 .medium-card .germany-img {
-  background: url(images/other/germany.webp);
+  background: url(/momondo-clone/images/other/germany.webp);
   background-size: cover;
   background-position: center;
 }
 
 .medium-card .austria-img {
-  background: url(images/other/austria.webp);
+  background: url(/momondo-clone/images/other/austria.webp);
   background-size: cover;
   background-position: center;
 }
 
 .medium-card .portugal-img {
-  background: url(images/other/portugal.webp);
+  background: url(/momondo-clone/images/other/portugal.webp);
   background-size: cover;
   background-position: center;
 }
 
 .medium-card .lasvegas-img {
-  background: url(images/other/lasvegas.webp);
+  background: url(/momondo-clone/images/other/lasvegas.webp);
   background-size: cover;
   background-position: center;
 }
 
 .medium-card .kobenhavn-img {
-  background: url(images/other/kobenhavn.webp);
+  background: url(/momondo-clone/images/other/kobenhavn.webp);
   background-size: cover;
   background-position: center;
 }
 
 .medium-card .aarhus-img {
-  background: url(images/other/aarhus.webp);
+  background: url(/momondo-clone/images/other/aarhus.webp);
   background-size: cover;
   background-position: center;
 }
 
 .medium-card .newyork-img {
-  background: url(images/other/newyork.webp);
+  background: url(/momondo-clone/images/other/newyork.webp);
   background-size: cover;
   background-position: center;
 }
@@ -1490,7 +1490,7 @@ main {
   width: 100%;
   max-width: 610px;
   aspect-ratio: 13 / 10;
-  background: url(/images/other/trips.webp);
+  background: url(/momondo-clone/images/other/trips.webp);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
@@ -1518,43 +1518,43 @@ main {
 }
 
 #carrental #hero {
-  background: url(/images/other/road-trip.webp);
+  background: url(/momondo-clone/images/other/road-trip.webp);
   background-position: center right;
   background-size: cover;
 }
 
 #ferries #hero {
-  background: url(/images/other/ferries.webp);
+  background: url(/momondo-clone/images/other/ferries.webp);
   background-position: center center;
   background-size: cover;
 }
 
 #explore #hero {
-  background: url(/images/other/explore.webp);
+  background: url(/momondo-clone/images/other/explore.webp);
   background-position: bottom center;
   background-size: cover;
 }
 
 #packages #hero {
-  background: url(/images/other/package.webp);
+  background: url(/momondo-clone/images/other/package.webp);
   background-position: center right;
   background-size: cover;
 }
 
 #stays #hero {
-  background: url(/images/other/stays.webp);
+  background: url(/momondo-clone/images/other/stays.webp);
   background-position: center right;
   background-size: cover;
 }
 
 #thingstodo #hero {
-  background: url(/images/other/thingstodo.webp);
+  background: url(/momondo-clone/images/other/thingstodo.webp);
   background-position: top center;
   background-size: cover;
 }
 
 #travelrestrictions #hero {
-  background: url(/images/other/travel-restrictions.webp);
+  background: url(/momondo-clone/images/other/travel-restrictions.webp);
   background-position: center right;
   background-size: cover;
 }
